@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 body {
     background-color: #0A192F;
     padding: 0%;
@@ -109,4 +110,89 @@ h3 {
   }
  
 
+/* about */
 
+/*
+h5 
+{
+    text-align: center;
+    margin-right: 240px;
+    color: #ffff;
+}
+*/
+.hero {
+    height: 100%;
+    width: 100%;
+    background-color: #0A192F;
+    background-position: center;
+    background-size: cover;
+    position: center;
+}
+.form-box{
+    width: 380px;
+    height: 480px;
+    position: center;
+    margin: 65 auto;
+    margin-left: 30%;
+    background: #0A192F;
+    padding: 5%;
+}
+h4{
+    text-align: center;
+    color: rgb(3, 3, 3);
+   /* margin-top: 100px; */
+    font-size: 40px;
+   
+}
+.input-group
+{
+    top: 180px;
+    position: absolute;
+    width: 280px;
+    transition: .5s;
+    margin-top: 06%;
+    columns: 200px;
+
+}
+.input-field {
+    width: 100%;
+    padding: 10px 0;
+    margin: 15px 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid #87A1FD;
+    border-top: transparent;
+    outline: none;
+    background: transparent;
+}
+ .submit-btn {
+     width: 85%;
+     padding: 10px 30px;
+     cursor: pointer;
+     display: block;
+     margin: auto;
+     background: transparent;
+     border-color: #87A1FD;
+     border-radius: 5px;
+     margin-top: 35px;
+     size: -90ch;
+  
+     margin-top: 20%;
+     
+ }
+
+ .chech-box{
+     margin:30px 10px 30px 0;
+ }
+ span {
+     columns: 50px;
+     color: #758FEF;
+ }
+ h5{
+     font-size: small;
+     bottom: 30px;
+     position: relative
+ }
+ h6 {
+     margin-bottom: 5200px;
+ }
