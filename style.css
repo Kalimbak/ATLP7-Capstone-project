@@ -58,10 +58,10 @@ h2 {
 h3 {
     margin-left: 180px;
     margin-top: 1px;
-    color: white;
+    color: #C9A0A0;
     column-width: 15cm;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 16px;
 }
 .btn {
     margin-left: 172px;
@@ -99,3 +99,14 @@ h3 {
     color: white;
     font-size: 20px;
   }
+  #home  img{
+    text-align: center;
+    margin-left: 900px;
+   
+    max-width:  300px;
+    margin-top: -380px;
+    
+  }
+ 
+
+
